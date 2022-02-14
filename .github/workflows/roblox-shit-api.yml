@@ -1,0 +1,5 @@
+$ curl --verbose  --location --request POST 'https://apis.roblox.com/universes/v1/3343778438/places/8827873289/versions?versionType=Published' \
+--header 'x-api-key: th+M8CGNb0+CWbS+QYvDjX3cYM+xfAjRjx6WK64Cxuyx+Ta2 ' \
+--header 'Content-Type: application/octet-stream' \
+--data-binary @/home/placefiles/place1.rbxl
+{"versionNumber":9}
